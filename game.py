@@ -1,5 +1,6 @@
 # pylint: disable=missing-docstring
 # pylint: disable=too-few-public-methods
+#comment for test
 
 import string
 import random
